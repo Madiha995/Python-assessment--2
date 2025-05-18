@@ -1,0 +1,13 @@
+my_dic={}
+print(my_dic)
+my_dic["name"]="GVEI",
+my_dic["address"]="Srinagar"    
+print(my_dic)
+      
+            
+
+
+
+
+
+

@@ -1,0 +1,16 @@
+my_dic={
+    "a":30,
+    "b":40,
+    "c":45,
+    "d":50,
+    "e":25
+}
+print(my_dic)
+for key in my_dic.keys():
+    print(key)
+
+
+
+
+
+
